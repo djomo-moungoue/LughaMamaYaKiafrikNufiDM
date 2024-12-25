@@ -34,6 +34,17 @@
 > [!IMPORTANT]
 > La son **r** en francais se substitue généralement par le son **l** parce que les sons *ra re ri ro ru* n'existent pas. Exemples: francais sera: flàŋsī , camerun sera: kàmèlûn
 
+## Cōptúzēn (Pronoms)
+
+||nufi|francais|
+|---|---|---|
+|(personels sujet)|ngɑ, o, a, pɑh, pen, pō; ||
+|(démonstratifs)|yǐ; yi; yi, yi bê, yi bǎ, yi bî; yi bê le, yi bǎ lɑ́, yi bî li; zi||
+|(possessifs)|yā, yō, yī, yōh, yeē, yɑɑ̄; ya, yo, yi, yoh, yee, yɑɑ||
+|sēēnsōk (relatifs)|yi, kɑ́, kɑ̄||
+|(réfléchis)|||
+|(indéfinis)|||
+
 ## (Verbes et Conjugaison)
 
 ### **Ntiē'ghə** (conjugaison)
