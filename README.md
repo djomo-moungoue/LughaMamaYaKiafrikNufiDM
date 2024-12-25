@@ -28,6 +28,35 @@
 
 ### (Voyelles)
 
+### (consonnes)
+> [!NOTE]
+> Les consonnnes labiales sont b, f, m, p, v qui se retiennent facilement par la phrase: Mbɑ̀ fə̌ mɑ̀ píí vʉ̄ʉ̄ (Le chef est aussi au champ de chasse). [1]
+
+|N°|nɑ́hŋwɑ'nǐ vam (consonne)|pɑ́' ntám ... lɑ́ (comme dans)|
+|---|---|---|
+|01| b /bɑ/| bɑ (aussi)|
+|02| c /cɑ/| cɑ'si (avoir salué, salut!, la salutation) |
+|03| d /dɑ/| ndɑh (le climat, l'heure, le temps)|
+|04| f /fɑ/| mfɑ' (le travail) |
+|05| g /gɑ/| ngɑ (je) |
+|06| h /hɑ/| hɑɑ (avoir déchiré, déchire!, avoir divisé, divise!, la séparation) |
+|07| j /jɑ/| njɑɑ (le légume) |
+|08| k /kɑ/| kɑɑ (la clôture) |
+|09| l /lɑ/| lɑh (avoir oublié, oublie!, un oubli) |
+|10| m /mɑ/| mɑ (à, au, selon, par, en direction de, vers, alors, ainsi) |
+|11| n /nɑ/| nɑ̄' (sauce) |
+|12| ŋ /ŋɑ/| ŋɑ̄' (porte) |
+|13| p /pɑ/| pɑh (nous) |
+|14| s /sɑ/| sɑ' (l'aiguille, la seringue, la piqure, le vaccin, être venu ou arrivé, viens) |
+|15| t /tɑ/| tɑ (tellement, alors, donc, à, jusqu'à, depuis, au point de, à tel point) |
+|16| v /vɑ/| vɑh (avoir vecu, souffle de vie, santé)|
+|17| w /wɑ/| wɑ' (tôt, de bonne heure, à temps|
+|18| y /yɑ/| yɑ' (réputation, destinée, avoir prêté, avoir emprunté, avoir abrégé) |
+|19| z /zɑ/| zɑ' (avoir broyé, broye!, avoir écrasé, écrase! |
+|20| gh /ghɑ/| ghɑ' (difficile, important, grave) |
+|21| sh /shɑ/| shi (avoir gémi, gémi!, avoir effleuré, effleure!) |
+|22| zh /zhɑ/| nzhi (le chemin, la voie, la route, la solution, la voix, le son, le volume sonore, l'interdiction) |
+
 ### (Syllabes)
 
 ### (Prononciation / Articulation)
@@ -50,15 +79,23 @@ Examples illustratifs:
  
 
 ## Cōptúzēn (Pronoms)
+> [!NOTE]
+> il, elles signifien respectivement il ou elle, ils ou elles pour raison de simplicité
+
+Cōptúzēn signifie litteralement qui remplace le nom. Il existe 2 types de pronoms personnels: Le *pronom personnel sujet* qui est un mot remplacant le sujet d'une phrase afin d'éviter les répétitions du *locuteur* et le *pronom personnel complément d'objet* qui évite la répétition du nom de l'*interlocuteur*. Exemple illustratif: *Lǒnǎm* hɑ́ tɑ' wúsʉɑ mbí *nga'njǎm i* (Lonam a donné un jouet á son cadet). L'usage des pronoms personnels donne: *Ǎ* hɑ́ tɑ' wúsʉɑ mbú *i* (Il lui a donné un jouet).  [1]
+   
 
 ||nufi|francais|
 |---|---|---|
-|(personels sujet)|ngɑ, o, a, pɑh, pen, pō; ||
+|(personels sujets basiques)|ngɑ/n/m, o, a, pɑh, pen, pō; yāā|je, tu, il, nous, vous, ils; il (pour les choses)|
+|(personels sujets auxilliarisés)|ngɑ̌, ǒ, ǎ, pɑ̌h, pěn, pó; yáá|j'ai ou je suis, tu as ou tu es, il a ou il est, nous avons ou nous sommes, vous avez ou vous êtes, ils ont ou ils sont ou on a ou on est; c'est (pour les choses)|
+|(personels compléments)|ngɑ/n/m, o, a, pɑh, pen, pō; ||
 |(démonstratifs)|yǐ; yi; yi, yi bê, yi bǎ, yi bî; yi bê le, yi bǎ lɑ́, yi bî li; zi||
 |(possessifs)|yā, yō, yī, yōh, yeē, yɑɑ̄; ya, yo, yi, yoh, yee, yɑɑ||
 |sēēnsōk (relatifs)|yi, kɑ́, kɑ̄||
 |(réfléchis)|||
-|(indéfinis)|||
+
+## (adjectifs)
 
 ## (Verbes et Conjugaison)
 
@@ -243,4 +280,5 @@ ___
 # Bibliografia 
 (Bibliographie)
 
+1) Tchamna, Rodrigue; Deukam, Arlette; Tcheulahie, Jean Baptiste; Emo, Achilles. La grammaire des langues bamilekes : cas du nufi (French Edition) (p. 44). Kindle Edition. 
 ---
