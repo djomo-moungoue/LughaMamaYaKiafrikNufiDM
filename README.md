@@ -31,8 +31,23 @@
 ### (Syllabes)
 
 ### (Prononciation / Articulation)
-> [!IMPORTANT]
-> La son **r** en francais se substitue généralement par le son **l** parce que les sons *ra re ri ro ru* n'existent pas. Exemples: francais sera: flàŋsī , camerun sera: kàmèlûn
+La langue nufi est une langue tonale composée de 5 tons. A savoir:
+1) ton 1 (nshʉ̀' / nshʉ')
+2) ton 2 (pʉ́ɑ́)
+3) ton 3 (tāā)
+4) ton 5 (tî)
+5) ton 7 (Səəmbʉ́ɑ́)
+
+Les tons principaux sont les tons 1 à 3. Le ton 1 est le ont par défaut, dont est facultatif lors de l'écriture. Les mots à ton 1 se déclinent en ton 7 dans les mots composés ou dans les phrases. Les mots à ton 3 se déclinent en ton 5 dans les mots composés formant des noms d'agents et en ton 2 dans les mots composés formant des substantifs ou dans des phrases.
+
+Examples illustratifs:
+- ngɑ (je) devient ngɑ̌ mɑnzī'sī wū (j'étudie) : transformation ton 1 dans une phrase.
+- mbom (oeufs) devient mbǒm ngāp (oeufs de la poule) : transformation du ton 1 dans un mot composé.
+- tèn (sous, en dessous, bas en bas) devient těnvam (bas-ventre) : transformation du ton 1 dans un mot composé.
+- ncō' (ouvrir) devient ncô'ndu' (ouvre-bierre) : transformation du ton 3 dans nom d'agent.
+- pōō (lesenfants) devient póómɑ̄ (frères, soeurs; litt. les enfants de la mère) : transformation du ton 3 dans un substantif.
+- pō (lis) devient pó mɑnzī'sī wū (ils étudient) : transformation du ton 3 dans une phrase.
+ 
 
 ## Cōptúzēn (Pronoms)
 
