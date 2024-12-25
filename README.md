@@ -89,7 +89,9 @@ Cōptúzēn signifie litteralement qui remplace le nom. Il existe 2 types de pro
 |---|---|---|
 |(personels sujets basiques)|ngɑ/n/m, o, a, pɑh, pen, pō; yāā|je, tu, il, nous, vous, ils; il (pour les choses)|
 |(personels sujets auxilliarisés)|ngɑ̌, ǒ, ǎ, pɑ̌h, pěn, pó; yáá|j'ai ou je suis, tu as ou tu es, il a ou il est, nous avons ou nous sommes, vous avez ou vous êtes, ils ont ou ils sont ou on a ou on est; c'est (pour les choses)|
-|(personels compléments)|ngɑ/n/m, o, a, pɑh, pen, pō; ||
+|(personels compléments d'objet direct)|ā, ō, ī, yōh, yēē, yɑ̄ɑ̄|me/m', te/t', le/la/l', nous, vous, les|
+|(personels compléments d'objet indirect)|a, o, i, pɑh, pen, pō|me/moi/m', te/toi/t', lui, nous, vous, leur/eux|
+|(personnels toniques)|(pì, si) mʉ, wo, yʉ̄ɑ̄, pɑh, pen, pō|((avec, sans) moi, toi, lui, nous, vous, eux)| 
 |(démonstratifs)|yǐ; yi; yi, yi bê, yi bǎ, yi bî; yi bê le, yi bǎ lɑ́, yi bî li; zi||
 |(possessifs)|yā, yō, yī, yōh, yeē, yɑɑ̄; ya, yo, yi, yoh, yee, yɑɑ||
 |sēēnsōk (relatifs)|yi, kɑ́, kɑ̄||
