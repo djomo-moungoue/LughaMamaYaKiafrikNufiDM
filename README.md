@@ -447,6 +447,15 @@ consécutif
 
  *Zhiēnzhi* : ton
 
+Tie/Ŋwɑ'=Ecris
+
+Note=Lo'
+
+Note/notez que/Retiens que. . .   = Lo' mɑ̂. .  
+Pen ló' mɑ̂. . . 
+
+NB=Yū' pəpē'(YP)
+
 ### Zhínǔzʉ́'nʉɑ (Agriculture)
 
 ### Zhínǔsīēngwe' (Geographie)
@@ -537,6 +546,10 @@ Mbī'tūmɑ́ ndɑ̌' wo tɑ́ pɑ̌h zhí yǒ, lɑ́' Túnkə ǒ síémbɑ̄ kw
 Mbī'tūmɑ́ ndɑ̌' wo tɑ́ pɑ̌h zhí yǒh, lɑ́' Túnkə ǒ síémbɑ̄ túfie yǒh ndíndē.
 
 ---
+
+## Ghəə̄ Ghəəmɑtū 
+
+Ghə̀ə̀mɑ̀tū
 
 ## Ghəə̄ Tʉ́ɑ́kālɑ̄ (Paroles Contes et Legendes)
 
