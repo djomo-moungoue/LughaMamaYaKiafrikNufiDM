@@ -79,7 +79,7 @@ Fōhni (Example):
 
 ## Cōptúzēn (Pronoms)
 > [!NOTE]
-> il, elles signifien respectivement il ou elle, ils ou elles pour raison de simplicité
+> Lors des traductions en français, le masculin sera utilisé sans précision de la forme feminine parce que cette distinction de genre n'existe pas en langue nufi.
 
 Cōptúzēn signifie litteralement qui remplace le nom. Il existe 2 types de pronoms personnels: Le *pronom personnel sujet* qui est un mot remplacant le sujet d'une phrase afin d'éviter les répétitions du *locuteur* et le *pronom personnel complément d'objet* qui évite la répétition du nom de l'*interlocuteur*. Exemple illustratif: *Lǒnǎm* hɑ́ tɑ' wúsʉɑ mbí *nga'njǎm i* (Lonam a donné un jouet á son cadet). L'usage des pronoms personnels donne: *Ǎ* hɑ́ tɑ' wúsʉɑ mbú *i* (Il lui a donné un jouet).  [1]
    
@@ -91,10 +91,14 @@ Cōptúzēn signifie litteralement qui remplace le nom. Il existe 2 types de pro
 |Cōptúzēn ndehnten (pronoms personels compléments d'objet direct)|ā, ō, ī, yōh, yēē, yɑ̄ɑ̄|me/m', te/t', le/la/l', nous, vous, les|
 |Cōptúzēn ndehnten (pronoms personels compléments d'objet indirect)|a, o, i, pɑh, pen, pō|me/moi/m', te/toi/t', lui, nous, vous, leur/eux|
 |(prons personnels toniques)|(pì, si) mʉ, wo, yʉ̄ɑ̄, pɑh, pen, pō|((avec, sans) moi, toi, lui, nous, vous, eux)| 
+|(pronoms personnels réfléchis I)|nā a, nā o, nā i, nā yoh, nā yee, nā yɑɑ|me/m', te/t', se/s', nous, vous, se|
+|(pronoms personnels réfléchis II)|túnā a/ā/á, túnā o/ō/ó, túnā i/ī/í, túnā yoh/yǒh/yóh, túnā yee/yeé/yéé, túnā yɑɑ/yɑɑ́/yɑ́ɑ́|moi-même, toi-même, lui-même, nous-mêmes, vous-mêmes, eux-mêmes|
 |(pronoms démonstratifs)|yǐ; yi; yi, yi bê, yi bǎ, yi bî; yi bê le, yi bǎ lɑ́, yi bî li; zi||
 |(pronoms possessifs)|yā, yō, yī, yōh, yeē, yɑɑ̄; ya, yo, yi, yoh, yee, yɑɑ||
 |sēēnsōk (relatifs)|yi, kɑ́, kɑ̄||
-|(pronoms réfléchis)|||
+
+Fōhni (Example):
+- ngɑ̌ ghə̀ə́ mbú ì túnā à= ngɑ̌ ghə̀ə́ mbú ì túnā ā = túnā á ghə̀ə́ mbú ì: je lui ai dit moi-même. [1]
 
 *🚨Siēmbʉ̄ɑ̄ 1🚨* : 
 *Cōptúzēn ngʉwū, ǒ, ngʉnu* ( pronom personnel sujet)
