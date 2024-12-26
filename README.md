@@ -82,7 +82,8 @@ Fōhni (Example):
 > Lors des traductions en français, le masculin sera utilisé sans précision de la forme feminine parce que cette distinction de genre n'existe pas en langue nufi.
 
 Cōptúzēn signifie litteralement qui remplace le nom. Il existe 2 types de pronoms personnels: Le *pronom personnel sujet* qui est un mot remplacant le sujet d'une phrase afin d'éviter les répétitions du *locuteur* et le *pronom personnel complément d'objet* qui évite la répétition du nom de l'*interlocuteur*. Exemple illustratif: *Lǒnǎm* hɑ́ tɑ' wúsʉɑ mbí *nga'njǎm i* (Lonam a donné un jouet á son cadet). L'usage des pronoms personnels donne: *Ǎ* hɑ́ tɑ' wúsʉɑ mbú *i* (Il lui a donné un jouet).  [1]
-   
+
+Les pronoms démonstratifs font référence à une personne, un animal ou une chose dont  on a déjà parlé précédemment. Ils peuvent dans certains cas designer l'appartenance. [1] 
 
 ||nufi|francais|
 |---|---|---|
@@ -93,12 +94,15 @@ Cōptúzēn signifie litteralement qui remplace le nom. Il existe 2 types de pro
 |(prons personnels toniques)|(pì, si) mʉ, wo, yʉ̄ɑ̄, pɑh, pen, pō|((avec, sans) moi, toi, lui, nous, vous, eux)| 
 |(pronoms personnels réfléchis I)|nā a, nā o, nā i, nā yoh, nā yee, nā yɑɑ|me/m', te/t', se/s', nous, vous, se|
 |(pronoms personnels réfléchis II)|túnā a/ā/á, túnā o/ō/ó, túnā i/ī/í, túnā yoh/yǒh/yóh, túnā yee/yeé/yéé, túnā yɑɑ/yɑɑ́/yɑ́ɑ́|moi-même, toi-même, lui-même, nous-mêmes, vous-mêmes, eux-mêmes|
-|(pronoms démonstratifs)|yǐ; yi; yi, yi bê, yi bǎ, yi bî; yi bê le, yi bǎ lɑ́, yi bî li; zi||
+|(pronoms démonstratifs)|yi bê, yi bǎ, yi bî; zi bê, zi bǎ, yi bî|ceci, cela prèt de toi, cela loin de nous; ceux-ci, ceux-là|
+|(pronoms démonstratifs renforcés)|yi bê le, yi bǎ lɑ́, yi bî li|celui-ci, celui-là/cet autre-là|
+|sēēnsōk (pronoms relatifs)|yi, kɑ́, kɑ̄|celui qui/que/dont|
 |(pronoms possessifs)|yā, yō, yī, yōh, yeē, yɑɑ̄; ya, yo, yi, yoh, yee, yɑɑ||
-|sēēnsōk (relatifs)|yi, kɑ́, kɑ̄||
 
 Fōhni (Example):
 - ngɑ̌ ghə̀ə́ mbú ì túnā à= ngɑ̌ ghə̀ə́ mbú ì túnā ā = túnā á ghə̀ə́ mbú ì: je lui ai dit moi-même. [1]
+- Zì báá těn nkɑ̄ɑ̄ = celles-là sont chères.
+
 
 *🚨Siēmbʉ̄ɑ̄ 1🚨* : 
 *Cōptúzēn ngʉwū, ǒ, ngʉnu* ( pronom personnel sujet)
