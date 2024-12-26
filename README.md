@@ -97,6 +97,39 @@ Cōptúzēn signifie litteralement qui remplace le nom. Il existe 2 types de pro
 |sēēnsōk (relatifs)|yi, kɑ́, kɑ̄||
 |(réfléchis)|||
 
+*🚨Siēmbʉ̄ɑ̄ 1🚨* : 
+*Cōptúzēn ngʉwū, ǒ, ngʉnu* ( pronom personnel sujet)
+
+Ngɑ̌, mʉ, m, n, o,wo, ɑ, yʉ̄ɑ̄ / pɑh, pɑh ō, pɑh yʉ̄ɑ̄, pɑh ā pen, pɑh ā pō, pɑ̌h pɑh, pen, pen píá pō, pěn pen, pō, pō pō, pō píá pen
+
+ *Kee* : Cōptúzēn ngʉwú ndáh zʉ̌' zén mbhi ghə ǎ ngʉ́wú yāā lɑ́.
+
+ *Fōhni* : *Ngɑ̌* sók ō nu bê, ǒ lén nā mɑ́ kɑ́ ? Mɑ̄ *ā* lɑsɑ́' thʉ̄' tɑ́ *pɑh* yōk ī.
+Sɑ' *ḿ* fěn mbiyá' mbú ó ku'mbak, mêndɑ' *n* ngēnɑ̄ yǎ, mbǎk indō. *Pen píá pō* tēn sê le mbīɑ̄ yōh tɑ̌ *pɑ̌h yʉ̄ɑ̄* pátnjam ndáh yǐ ntám ndʉ́' *pɑh ā pen* ghénɑ̄.
+
+
+*🚨Siēmbʉ̄ɑ̄ 2🚨 :* *Cōptúzēn ndehnten* ( pronom personnel complément)
+
+Ǎ nzí ghə, mɑ̄ndēh ten ī.
+
+ *Fōhni* : a, o, i / yōh, yī, yɑ̄ɑ̄ 
+( mɑ̄vǒ cēh *ā* ) 
+
+ bā, bō, bī/ yōh, yī, yɑ̄ɑ̄ 
+( Njwé' sɔ *bō* )
+
+ mā, mō, mī, yōh, yī, yɑ̄ɑ̄
+(Ŋwátlɑ́' ingóó *mī* )
+
+na, no, ni / yōh, yī, yɑ̄ɑ̄
+
+zǎ, zǒ, zǐ / zōh, zī, zɑ̄ɑ̄ / pɑh, pen, pō
+
+ *Fōhni* : Pō lɑyíí *yóh* ntē.
+Ngɑ̌ insī *zǎ* síé.
+N dɑlén mbí *pó* sê le.
+
+
 ## (adjectifs)
 
 ## (Verbes et Conjugaison)
