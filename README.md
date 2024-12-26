@@ -316,6 +316,8 @@ ___
 
 ## Pú'ŋwɑ'nǐ pahsǐ Zhínu (Dictionnaire scientifique)
 
+### Zhínǔzʉ́'nʉɑ (Agriculture)
+
 ### Zhínǔsīēngwe' (Geographie)
 
 ### Zhínǔkee (Droit)
@@ -380,7 +382,10 @@ b) *Mvǎk nkɑ̄ɑ̄*
 
 ### Zhínǔsāhndó' (Informatique)
 
+### Zhínǔvʉ' (Technologie)
+
 ### Zhínǔka' (Medecine)
+
 
 ---
 
