@@ -312,6 +312,69 @@ N dɑlén mbí *pó* sê le.
 
 ___
 
+# Annexe
+
+## (Dictionnaire scientifique)
+
+### (Mathématiques)
+
+*Sáhwū* 
+
+ *🚨Yū'ndó'🚨* 
+
+*Tuɑntē:* capital, fonds de commerce 
+*nshuywēn, ǒ , nshuntē* : Prix d'achat 
+ *pōpsi* : dépenses 
+ *Nshukwēn* : prix de revient 
+ *Nshufen* : Prix de vente 
+ *Pii* : bénéfice 
+ *Pīē* : perte
+
+
+*🚨Mfɑ̌' cákmvak.🚨* 
+
+ *Téhě mfɑ̌' cákmvak* 
+
+- Tɑ' ndom pe'e mɑ ǎ mɑ́  kopndʉ́ɑ́ ghʉ̌ mɑ' 24 pí mɑ' 9. Pō shwī 5/6 ná pí zinŋ, nshwí mvʉ' yāā pí yā'.
+
+Sāh:
+
+a) Yeesǐ tɑ' pǎh yāā,
+
+b) Zhī mɑ́ mɑ' nkɑndak zínŋ  mɑnkwēn nkɑ̄ɑ̄ ngam 550. mɑ' nkɑndak yā' bɑ̄  nkɑ̄ɑ̄ ngam 450.
+Mvǎk nkɑ́ɑ́ lāhā ?
+
+ *Y.P* : Pen cáh pɑ̌' mfɑ' lě mbú a!
+ *Shck Ndə̌ngwê*
+
+-------------------------------------
+
+*Pɑ' mfɑ' cákmvak*
+
+* *kopndʉ̄ɑ̄* : rectangle 
+* *yeesi* : taa, ǒ , vǎm wū ( superficie)
+* *tɑ' mɑ'* : 1m ( un mètre)
+* *tɑ' mɑ' nkɑndak* : 1m2 ( un mètre carré)
+* *Fʉɑ̄' sāhlāmɑ* : mɑ' 24 ( longueur)
+* *Fʉɑ̄' sāhtiā* : mɑ' 9 ( largeur)
+
+Fʉɑ̄' yeesǐ kwee ndom pe'e : 24 x 9 = 216 *mɑ' nkɑndak*
+
+a) *Fʉɑ̄' yeesi*
+---> *pǎh zînŋ* : 216 x 5/6 = *180 mɑ' nkɑndak*
+
+---> *pǎh yā'* : 216 x 1/6 = *36 mɑ' nkɑndak*
+
+b) *Mvǎk nkɑ̄ɑ̄*
+
+---> nkɑ̄ɑ̄ zînŋ
+180 x 550 = *nkɑ̄ɑ̄ ngam 99 000*
+---> nkɑ̄ɑ̄ yā'
+36 x 450 F = *nkɑ̄ɑ̄ ngam 16 200*
+
+*Mvǎk nkɑ̄ɑ̄*: 99 000 + 16 200 = *nkɑ̄ɑ̄ ngam 115 200*
+
+---
 # Bibliografia 
 (Bibliographie)
 
