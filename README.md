@@ -23,11 +23,11 @@
 
 ## (Introduction)
 
-## Harufa (Alphabet)
+## Nɑ́hŋwɑ'ni (Alphabet)
 
-### (Voyelles)
+### Nɑ́hŋwɑ'nǐ nzhínte'(Voyelles)
 
-### (consonnes)
+### Nɑ́hŋwɑ'nǐ vam (consonnes)
 > [!NOTE]
 > Les consonnnes labiales sont b, f, m, p, v qui se retiennent facilement par la phrase: Mbɑ̀ fə̌ mɑ̀ píí vʉ̄ʉ̄ (Le chef est aussi au champ de chasse). [1]
 
@@ -58,7 +58,7 @@
 
 ### (Syllabes)
 
-### (Prononciation / Articulation)
+### Nzhínte' (Prononciation)
 La langue nufi est une langue tonale composée de 5 tons. A savoir:
 1) ton 1 (nshʉ̀' / nshʉ')
 2) ton 2 (pʉ́ɑ́)
@@ -68,7 +68,7 @@ La langue nufi est une langue tonale composée de 5 tons. A savoir:
 
 Les tons principaux sont les tons 1 à 3. Le ton 1 est le ont par défaut, dont est facultatif lors de l'écriture. Les mots à ton 1 se déclinent en ton 7 dans les mots composés ou dans les phrases. Les mots à ton 3 se déclinent en ton 5 dans les mots composés formant des noms d'agents et en ton 2 dans les mots composés formant des substantifs ou dans des phrases.
 
-Examples illustratifs:
+Fōhni (Example):
 - ngɑ (je) devient ngɑ̌ mɑnzī'sī wū (j'étudie) : transformation ton 1 dans une phrase.
 - mbom (oeufs) devient mbǒm ngāp (oeufs de la poule) : transformation du ton 1 dans un mot composé.
 - tèn (sous, en dessous, bas en bas) devient těnvam (bas-ventre) : transformation du ton 1 dans un mot composé.
@@ -86,15 +86,15 @@ Cōptúzēn signifie litteralement qui remplace le nom. Il existe 2 types de pro
 
 ||nufi|francais|
 |---|---|---|
-|(personels sujets basiques)|ngɑ/n/m, o, a, pɑh, pen, pō; yāā|je, tu, il, nous, vous, ils; il (pour les choses)|
-|(personels sujets auxilliarisés)|ngɑ̌, ǒ, ǎ, pɑ̌h, pěn, pó; yáá|j'ai ou je suis, tu as ou tu es, il a ou il est, nous avons ou nous sommes, vous avez ou vous êtes, ils ont ou ils sont ou on a ou on est; c'est (pour les choses)|
-|(personels compléments d'objet direct)|ā, ō, ī, yōh, yēē, yɑ̄ɑ̄|me/m', te/t', le/la/l', nous, vous, les|
-|(personels compléments d'objet indirect)|a, o, i, pɑh, pen, pō|me/moi/m', te/toi/t', lui, nous, vous, leur/eux|
-|(personnels toniques)|(pì, si) mʉ, wo, yʉ̄ɑ̄, pɑh, pen, pō|((avec, sans) moi, toi, lui, nous, vous, eux)| 
-|(démonstratifs)|yǐ; yi; yi, yi bê, yi bǎ, yi bî; yi bê le, yi bǎ lɑ́, yi bî li; zi||
-|(possessifs)|yā, yō, yī, yōh, yeē, yɑɑ̄; ya, yo, yi, yoh, yee, yɑɑ||
+|Cōptúzén ngʉ̀wū (pronoms personels sujets basiques)|ngɑ/n/m, o, a, pɑh, pen, pō; yāā|je, tu, il, nous, vous, ils; il (pour les choses)|
+|Cōptúzén ngʉ̀wū (pronoms personels sujets auxilliarisés)|ngɑ̌, ǒ, ǎ, pɑ̌h, pěn, pó; yáá|j'ai ou je suis, tu as ou tu es, il a ou il est, nous avons ou nous sommes, vous avez ou vous êtes, ils ont ou ils sont ou on a ou on est; c'est (pour les choses)|
+|Cōptúzēn ndehnten (pronoms personels compléments d'objet direct)|ā, ō, ī, yōh, yēē, yɑ̄ɑ̄|me/m', te/t', le/la/l', nous, vous, les|
+|Cōptúzēn ndehnten (pronoms personels compléments d'objet indirect)|a, o, i, pɑh, pen, pō|me/moi/m', te/toi/t', lui, nous, vous, leur/eux|
+|(prons personnels toniques)|(pì, si) mʉ, wo, yʉ̄ɑ̄, pɑh, pen, pō|((avec, sans) moi, toi, lui, nous, vous, eux)| 
+|(pronoms démonstratifs)|yǐ; yi; yi, yi bê, yi bǎ, yi bî; yi bê le, yi bǎ lɑ́, yi bî li; zi||
+|(pronoms possessifs)|yā, yō, yī, yōh, yeē, yɑɑ̄; ya, yo, yi, yoh, yee, yɑɑ||
 |sēēnsōk (relatifs)|yi, kɑ́, kɑ̄||
-|(réfléchis)|||
+|(pronoms réfléchis)|||
 
 *🚨Siēmbʉ̄ɑ̄ 1🚨* : 
 *Cōptúzēn ngʉwū, ǒ, ngʉnu* ( pronom personnel sujet)
