@@ -312,11 +312,15 @@ N dɑlén mbí *pó* sê le.
 
 ___
 
-# Annexe
+# (Annexe)
 
-## (Dictionnaire scientifique)
+## Pú'ŋwɑ'nǐ pahsǐ Zhínu (Dictionnaire scientifique)
 
-### (Mathématiques)
+### Zhínǔsīēngwe' (Geographie)
+
+### Zhínǔkee (Droit)
+
+### Zhínǔsáhwū (Mathématiques)
 
 *Sáhwū* 
 
@@ -374,9 +378,35 @@ b) *Mvǎk nkɑ̄ɑ̄*
 
 *Mvǎk nkɑ̄ɑ̄*: 99 000 + 16 200 = *nkɑ̄ɑ̄ ngam 115 200*
 
+### Zhínǔsāhndó' (Informatique)
+
+### Zhínǔka' (Medecine)
+
 ---
-# Bibliografia 
-(Bibliographie)
+
+## Ghəə̄ Yɔ̌nshi (Paroles Chansons)
+
+### Yɔ̌nshǐ Lěngwě' Póá Túnkə
+ 
+Póá Túnkə pɑh tēnthʉ̄ nhɑ̄ nku'nǐ nɑ́ lɑ̄' yǒh. 
+
+Pɑ̌h zhí mɑ́ Mbōo lɑkwě' yōh tɑ nshʉ́ɑ́sí. 
+
+Nhɑ̄ nkwe yoh mfʉ̌' ntám, nhɑ̄ zhínǔ mbí mfʉ yōh.
+
+Lɑ́' Túnkə, mʉ̄ɑ̄mʉ̄ɑ̄ zēn zǒ.
+
+Mbī'tūmɑ́ ndɑ̌' wo tɑ́ pɑ̌h zhí yǒ, lɑ́' Túnkə ǒ síémbɑ̄ kwɑ' yoh lɑ̄' ndíndē
+
+Mbī'tūmɑ́ ndɑ̌' wo tɑ́ pɑ̌h zhí yǒh, lɑ́' Túnkə ǒ síémbɑ̄ túfie yǒh ndíndē.
+
+---
+
+## Ghəə̄ Tʉ́ɑ́kālɑ̄ (Paroles Contes et Legendes)
+
+
+---
+# (Bibliographie)
 
 1) Tchamna, Rodrigue; Deukam, Arlette; Tcheulahie, Jean Baptiste; Emo, Achilles. La grammaire des langues bamilekes : cas du nufi (French Edition) (p. 44). Kindle Edition. 
 ---
