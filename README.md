@@ -548,7 +548,18 @@ Mbī'tūmɑ́ ndɑ̌' wo tɑ́ pɑ̌h zhí yǒh, lɑ́' Túnkə ǒ síémbɑ̄ t
 
 ## Ghəə̄ Ghəəmɑtū 
 
-Ghə̀ə̀mɑ̀tū
+### Ghəəmɑtū : Pɑnzɑ̄sicāk
+
+Mɑ̄vǒ Ngǔ'fī (ŋū 1) lɑ̀Kùɑ́nʉ̀ɑ̄ (ŋū 2) mɑ̄fʉ̌ Mbàkngòfāt (ŋū 3), Sò'njɑ̀ɑ̀ (ŋū 4) fɑ̄h mʉ̀.
+Njwēnɑ̌hntà' (ŋū 5) hɑ̄ nā í kò, nkɑ̄ɑ̄ sì sōk mbɑ̀ sēn ī Mòmòshʉ̄ (ŋū 6). 
+Ntūmbhìngòfāt (ŋū 7) lɑ̀pěh tɑ̀ shwīī, Mɑ̄ngà'nshì (ŋū 8) lāh Kùkū' (ŋū 9) ncɔ́, nsíé nkěn mbí ngām ì Ndʉ̌'nzɑ̄ (ŋū 10) mɑ́ à sǐ' Nkhʉ́ɑ́ nʉ̀ɑ́ (ŋū 11) ndòm pòò tɑ́ Ncátmɑ̄ŋū (ŋū 12) wūɑ̄ bɑ̄, mɑ̀ ncɔ̌ dhǐ kò. 
+Ndòó tú pɑ̀nzɑ̄sìcāk. 
+
+Mɑ̄fʉ̀ Sɑ̂'Sām LEUGOUE
+
+(Traduction: Maman Janvier laboura le champ de de reine Mars, Avril germa dessus. Mai alla au champ récolter sans informer son ami Juin. Juillet jusqu'à grandir Août pri Septembre , informa son beau père Octobre de ne pas défricher en Novembre )
+
+---
 
 ## Ghəə̄ Tʉ́ɑ́kālɑ̄ (Paroles Contes et Legendes)
 
