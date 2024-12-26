@@ -316,6 +316,137 @@ ___
 
 ## Pú'ŋwɑ'nǐ pahsǐ Zhínu (Dictionnaire scientifique)
 
+### Zhínǔghəə (Lnguistique)
+
+ *bɑ̄tɑmbɑ̄* : conditionnel.
+
+ *Cə́nu* : exclamation
+
+ *Cōptúzen* : pronom
+
+ *cwi'* : affixe 
+
+ *Cwi'mbhi* : préfixe 
+
+ *Cwi'njam* : suffixe 
+
+ *Cwianjā'* : conjonction 
+
+ *cwi'ngʉ'* : emphase 
+
+ *Cwīsīghə* : adverbe 
+ *Ghə* : verbe, parole, discours 
+
+ *ghə̌ cámzʉ'* : variante, dialecte, parler 
+
+ *ghə̌nu nkɑndak* : discours direct 
+
+ *ghə̌nu nsʉ̄sōk* : discours rapporté 
+
+ *ke* : règle 
+
+ *kəlāmɑ* : pluriel 
+
+ *kətiā* : singulier 
+
+ *Khǔnjā'wū* : syllabe
+
+ *Kōsīghə* : auxiliaire
+marqueur de temps/mode
+
+ *Kwěnjā'wū* : mot compose
+
+ *mbʉ̄ɑ̄* : aspect, manière, mode
+
+ *mbʉ́ɑ́ bɑ̄tɑmbɑ̄* : Mode conditionnel
+
+ *mbʉ́ɑ́ ghə̌nu:* 
+types de discours
+
+ *mbʉ́ɑ́ ngʉ'* : 
+mode impératif
+
+ *mbʉ́ɑ́ nukʉkwe'* : mode subjonctif
+
+ *mbʉ́ɑ́ nuzīmō':* 
+consécutif
+
+ *mbʉ́ɑ́ siēnu* : mode indicatif
+
+ *mbʉ́ɑ́ si lah ngə́nu* : infinitif
+
+ *mbʉ́ɑ́ghə* : mode
+
+ *mvā'nka' :* irrégulier 
+
+ *mɑ' ncámncām* : reduplication, multiplication
+
+ *ncwīsi, kwēnka':* inclusif
+
+ *ndehnten* : complément 
+
+ *ndʉ̄ɑ̄ zēn/ndʉ́ɑ́zēn* : Classe(5) nominale(s)
+
+ *Ndɑh/ ntie' ē ghə* : temps verbal 
+
+ *Ndɑ'si túmfɑ'* / yok : préposition 
+
+ *Ngǎ'zēn / Ngǎ'ghə* : racine du mot, verbe 
+
+ *Ngʉnu/ ngʉwū* : sujet 
+
+ *Njā'ghə* : proposition 
+
+ *Njā'nu* : phrase 
+
+ *Njā'wū* : mot
+
+ *Njá'zū* : les mots 
+
+ *Nkwěnka'* : inclusif
+
+ *Ntié'e* : présent 
+
+ *Ntiē' sɑ'* : futur 
+
+ *Ntômnka'* : exclusif 
+
+ *Nzhiyū'* : sens
+
+ *Nɑ́hŋwɑ'ni* : alphabet 
+
+ *Nɑ́hŋwɑ'nǐ nzhintē'/ nzhwíénɑ́hŋwɑ'ni* : voyelles 
+
+ *Nɑ́hŋwɑ'nǐ vam / ndúnɑ́hŋwɑ'ni* : consonnes 
+
+ *Pǎtzēn* : adjectif 
+
+ *Sēnsōk* : relatif 
+
+ *Siēmbʉ̄ɑ̄* : grammaire 
+
+ *Sienga'wū:* possessif
+
+ *Sipʉ' / mbōnten:* indéfini 
+
+ *Sivā'nka'* : régulier 
+
+ *Téhten* : analyse 
+
+ *Ntéhtěn njá'zū* :  analyse grammaticale 
+
+ *Ntéhtěn zhímbʉ́ɑ́ghə / zhímbʉ́ɑ́njá'ghə* : analyse logique 
+
+ *Těnghə:* base verbale 
+
+ *Te'sínu:* interrogation 
+
+ *Tóh ntie'* : passé 
+
+ *Tômfhʉ'* : exception
+
+ *Zhiēnzhi* : ton
+
 ### Zhínǔzʉ́'nʉɑ (Agriculture)
 
 ### Zhínǔsīēngwe' (Geographie)
