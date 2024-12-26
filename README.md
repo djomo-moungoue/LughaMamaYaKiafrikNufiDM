@@ -1,7 +1,7 @@
 # Nkǒ'mfɑ̀' (Table des matières)
 1. [Muhtasari (Résumé)](#Muhtasari)
 2. [Utangulizi (Introduction)](#Utangulizi)
-3. [Alfabeti (Alphabet)](#Alfabeti)
+3. [Nɑ́hŋwɑ̀'nì (Alphabet)](#Nɑ́hŋwɑ̀'nì)
 5. [Matamshi (Prononciation)](#Matamshi)
 6. [Madarasa Ya Majina (Classes Nominales)](#Madarasa-Ya-Majina)
 7. [Usemi Wa Kawaida (Expressions Usuelles)](#Usemi-Wa-Kawaida)
