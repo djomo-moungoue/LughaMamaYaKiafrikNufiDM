@@ -1,5 +1,4 @@
-# Jedwali La Yliyomo 
-(Table des matières)
+# Nkǒ'mfɑ̀' (Table des matières)
 1. [Muhtasari (Résumé)](#Muhtasari)
 2. [Utangulizi (Introduction)](#Utangulizi)
 3. [Alfabeti (Alphabet)](#Alfabeti)
