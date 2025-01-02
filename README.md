@@ -81,7 +81,7 @@ Fōhni (Example):
 > [!NOTE]
 > Lors des traductions en français, le masculin sera utilisé sans précision de la forme feminine parce que cette distinction de genre n'existe pas en langue nufi.
 
-Cōptúzēn signifie litteralement qui remplace le nom. Il existe 2 types de pronoms personnels: Le *pronom personnel sujet* qui est un mot remplacant le sujet d'une phrase afin d'éviter les répétitions du *locuteur* et le *pronom personnel complément d'objet* qui évite la répétition du nom de l'*interlocuteur*. Exemple illustratif: *Lǒnǎm* hɑ́ tɑ' wúsʉɑ mbí *nga'njǎm i* (Lonam a donné un jouet á son cadet). L'usage des pronoms personnels donne: *Ǎ* hɑ́ tɑ' wúsʉɑ mbú *i* (Il lui a donné un jouet).  [1]
+Cōptúzēn signifie litteralement qui remplace le nom. Il existe 2 types de pronoms personnels: Le *pronom personnel sujet* qui est un mot remplaçant le sujet d'une phrase afin d'éviter les répétitions du *locuteur* et le *pronom personnel complément d'objet* qui évite la répétition du nom de l'*interlocuteur*. Exemple illustratif: **Lǒnǎm** hɑ́ tɑ' wúsʉɑ mbí **nga'njǎm i** (Lonam a donné un jouet á son cadet). L'usage des pronoms personnels donne: **Ǎ** hɑ́ tɑ' wúsʉɑ mbú **i** (Il lui a donné un jouet).  [1]
 
 Les pronoms démonstratifs font référence à une personne, un animal ou une chose dont  on a déjà parlé précédemment. Ils peuvent dans certains cas designer l'appartenance. [1] 
 
@@ -138,6 +138,51 @@ N dɑlén mbí *pó* sê le.
 
 
 ## (adjectifs)
+
+Sienga'wū ntēn mbhi, ǒ, njam zēn, mɑ̄ndɑ́'sí wen kɑ̌ ghʉ̌ wū pó konsāh nǔ ná lɑ́. Fōhni: nshu ā / se' zī / yoh túse'.
+
+Mó' mvǎk nsienga'wū: ā, ō , ī / yōh, yī, yɑ̄ɑ̄ / bā, bō, bī / mā, mō , mī / mɑ̄ɑ̄, yēē, yɑ̄ɑ̄ / nā, nō , nī.
+
+|ā, ō , ī|bā, bō , bī|mā, mō , mī|mbā, mbō , mbī|nā, nō , nī|zā, zō , zī|mɑ̄ɑ̄, yēē, yɑ̄ɑ̄|yōh, yī, yɑ̄ɑ̄|ō, ē, ā|
+|---|---|---|---|---|---|---|---|
+|nshu|||nsēn||zēn|nkhu|nkhu|
+|tū||||||||
+
+
+🚨 Siēmbʉ̄ɑ̄ 3 : sienga'wū🚨 ( adjectif possessif)
+
+Ǎ ntēn mbhi, ǒ, njam zēn, mɑ̄ndɑ́'sí wen kɑ̌ ghʉ̌ wū pó konsāh nǔ ná lɑ́.
+
+Fōhni: nshu ā / se' zī / yoh túse'.
+
+ Mó' mvǎk nsienga'wū 
+
+ā, ō , ī / yōh, yī, yɑ̄ɑ̄ / bā, bō, bī / mā, mō , mī / mɑ̄ɑ̄, yēē, yɑ̄ɑ̄ / nā, nō , nī
+Fōhni : 
+tū ā , 
+nsēn mbō  nkhu mɑ̄ɑ̄ , ǒ , nkhu yɑ̄ɑ̄ 
+pe'e nā 
+zēn zī 
+wú pen
+Mɑ̄ ē 
+ mɑ̄vǒ 
+ Mɑ̄ ā / se' zā / te' zō / pēn zō / lak yɑ̄ɑ̄
+
+🚨Siēmbʉ̄ɑ̄ 4:🚨
+ Cōptúzēn sienga'wū ( pronom possessif)
+
+Ǎ ndáh zʉ̌' zēn mɑndɑ́'sí nga'wū, yi túmfɑ̌' ntám njâ'nǔ mɑ́ ngʉwū, ǒ, nděnten ghə. 
+
+ Cōptúzēn sienga'wū 
+
+Yǎ , yǒ,  yǐ , yě / yǒh, yě, yɑ̄ɑ̄.
+
+ Fōhni : Lǎh yo lak nnʉ́ɑ́ yǎ síé lɑ́.
+Ya móó shʉɑ ngwɑ̄' yo Ndhī í pǎ'pa', yo bɑ́  fhʉ̄tāp. Nsēn bɑ̄ɑ̄ sɑ', ntāt yǒh. Nthʉ̄  béé ghʉ̌ nsəə, mbɑ bíí ghʉ̌ yǐ Yoh laksǐ tōh pəpē', yǐ tóh mɑ lāhā ? Ngāb ǐ lí' nǐ mbom, yoh pīē njǎm khʉɑ'
+
+🚨Mfɑ'🚨 : Téhtěn njá'zū pó sēnsī nten le.
+
+Lǎh yo lak nnʉ́ɑ́ yǎ síé lɑ́. Ya móó shʉɑ ngwɑ̄' yo . Ndhī í pǎ'pa', yo bɑ́  fhʉ̄tāp. Nsēn bɑ̄ɑ̄ sɑ', ntāt yǒh. Nthʉ̄  béé ghʉ̌ nsəə, mbɑ bíí ghʉ̌ yǐ Yoh laksǐ tōh pəpē', yǐ tóh mɑ lāhā ? Ngāb ǐ lí' nǐ mbom, yoh pīē njǎm khʉɑ'.
 
 ## (Verbes et Conjugaison)
 
