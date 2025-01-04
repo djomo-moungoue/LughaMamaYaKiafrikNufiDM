@@ -150,9 +150,9 @@ Mó' mvǎk nsienga'wū: ā, ō , ī / yōh, yī, yɑ̄ɑ̄ / bā, bō, bī / mā
 |mā, mō , mī|nkhu|
 |mbā, mbō , mbī|nsēn; pōō|
 |nā, nō , nī||
-|zā, zō , zī|lɑ̄'; zēn|
+|zā, zō , zī, yōh, yēē, yɑ̄ɑ̄|lɑ̄'; zēn|
 |mɑ̄ɑ̄, yēē, yɑ̄ɑ̄||
-|yōh, yī, yɑ̄ɑ̄||
+|yōh, yēē, yɑ̄ɑ̄||
 |ō, ē, ā||
 |a, o, i|mēn; ndū; nzhwīē|
 |ba, bo, bi|nkɑ̄ɑ̄|
