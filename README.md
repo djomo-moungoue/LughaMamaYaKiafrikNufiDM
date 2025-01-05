@@ -153,11 +153,11 @@ Mó' mvǎk nsienga'wū: ā, ō , ī / yōh, yī, yɑ̄ɑ̄ / bā, bō, bī / mā
 |zǎ, zǒ, zǒ, yōh, yēē, yɑ̄ɑ̄|hāā; lāp; lɑ̄'; mbee (abscès); se'; vam; zɑ̄h; zēn; zīī;|
 |yōh, yēē, yɑ̄ɑ̄||
 |ō, ē, ā||
-|a, o, i|kʉ̄kāb; mbǎ'ntām; mēn; mvʉ̄ɑ̄; ndū; nkɑmbʉɑ'; nzhwīē; ŋwɑ'ni; pō; sēn; wen|
+|a, o, i, yoh, yee, yɑɑ|kʉ̄kāb; mbǎ'ntām; mēn; mvʉ̄ɑ̄; nā; ndū; nkɑmbʉɑ'; nzhwīē; ŋwɑ'ni; pō; sēn; wen|
 |ba, bo, bi|nkɑ̄ɑ̄|
 |la, lo, li|maa; mbii; mvɑ̄h; nkoo|
 |ma, mo, mi||
-|na, na , ni; yoh,|kūkūā; mbee (maison); nkoo;|
+|na, na , ni, yoh, yee, yɑɑ|kūkūā; mbee (maison); nkoo;|
 
 🚨 Siēmbʉ̄ɑ̄ 3 : sienga'wū🚨 ( adjectif possessif)
 
