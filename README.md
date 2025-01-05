@@ -159,17 +159,10 @@ Sienga'wū ntēn mbhi, ǒ, njam zēn, mɑ̄ndɑ́'sí wen kɑ̌ ghʉ̌ wū pó k
 |ya, yo, yi, yoh, yee, yɑ̄ɑ̄|lak; mōō; túse'; zēn|
  
 
-🚨Siēmbʉ̄ɑ̄ 4:🚨
- Cōptúzēn sienga'wū ( pronom possessif)
+Cōptúzēn sienga'wū ( pronom possessif) ndáh zʉ̌' zēn mɑndɑ́'sí nga'wū, yi túmfɑ̌' ntám njâ'nǔ mɑ́ ngʉwū, ǒ, nděnten ghə. 
 
-Ǎ ndáh zʉ̌' zēn mɑndɑ́'sí nga'wū, yi túmfɑ̌' ntám njâ'nǔ mɑ́ ngʉwū, ǒ, nděnten ghə. 
+Cōptúzēn sienga'wū mbɑ̄: Yǎ , yǒ,  yǐ, yǒh, yě, yɑ̄ɑ̄. Fōhni : Lǎh yo lak nnʉ́ɑ́ yǎ síé lɑ́.
 
- Cōptúzēn sienga'wū 
-
-Yǎ , yǒ,  yǐ , yě / yǒh, yě, yɑ̄ɑ̄.
-
- Fōhni : Lǎh yo lak nnʉ́ɑ́ yǎ síé lɑ́.
-Ya móó shʉɑ ngwɑ̄' yo Ndhī í pǎ'pa', yo bɑ́  fhʉ̄tāp. Nsēn bɑ̄ɑ̄ sɑ', ntāt yǒh. Nthʉ̄  béé ghʉ̌ nsəə, mbɑ bíí ghʉ̌ yǐ Yoh laksǐ tōh pəpē', yǐ tóh mɑ lāhā ? Ngāb ǐ lí' nǐ mbom, yoh pīē njǎm khʉɑ'
 
 🚨Mfɑ'🚨 : Téhtěn njá'zū pó sēnsī nten le.
 
