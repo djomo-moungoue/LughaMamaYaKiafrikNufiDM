@@ -145,20 +145,19 @@ Mó' mvǎk nsienga'wū: ā, ō , ī / yōh, yī, yɑ̄ɑ̄ / bā, bō, bī / mā
 
 |nsienga'wū|wū|
 |---|---|
-|ā, ō , ī|khu; nshu; shwī’; ten; tū|
-|bā, bō , bī|kɔ; lɔ; ngɔ; Pū'nkɔ|
-|mā, mō , mī|nkhu|
-|mbā, mbō , mbī|nsēn; pōō|
+|ā, ō, ī|khu; lām; nshu; shwī’; ten; tōk; tū|
+|bā, bō, bī|kɔ; lɔ; ngɔ; Pū'nkɔ|
+|mǎ, mǒ, mǐ|nkhu; nse'; ntōk; nzī|
+|mbǎ, mbǒ, mbǐ|nsēn; pōō|
 |nā, nō , nī||
-|zā, zō , zī, yōh, yēē, yɑ̄ɑ̄|lɑ̄'; mbee (abscès); zēn|
-|mɑ̄ɑ̄, yēē, yɑ̄ɑ̄||
+|zǎ, zǒ, zǒ, yōh, yēē, yɑ̄ɑ̄|lāp; lɑ̄'; mbee (abscès); vam; zɑ̄h; zēn|
 |yōh, yēē, yɑ̄ɑ̄||
 |ō, ē, ā||
-|a, o, i|mēn; mvʉ̄ɑ̄; ndū; nzhwīē; ŋwɑ'ni; sēn; wen|
+|a, o, i|kʉ̄kāb; mēn; mvʉ̄ɑ̄; ndū; nkɑmbʉɑ'; nzhwīē; ŋwɑ'ni; pō; sēn; wen|
 |ba, bo, bi|nkɑ̄ɑ̄|
 |la, lo, li|maa; mbii; mvɑ̄h; nkoo|
 |ma, mo, mi||
-|na, na , ni|mbee (maison)|
+|na, na , ni|mbee (maison); nkoo;|
 
 🚨 Siēmbʉ̄ɑ̄ 3 : sienga'wū🚨 ( adjectif possessif)
 
