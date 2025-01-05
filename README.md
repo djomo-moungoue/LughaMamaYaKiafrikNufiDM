@@ -158,6 +158,7 @@ Mó' mvǎk nsienga'wū: ā, ō , ī / yōh, yī, yɑ̄ɑ̄ / bā, bō, bī / mā
 |la, lo, li|maa; mbii; mvɑ̄h; nkoo|
 |ma, mo, mi||
 |na, na , ni, yoh, yee, yɑɑ|kūkūā; mbee (maison); nkoo;|
+|ya, yo, yi, yoh, yee, yɑ̄ɑ̄|mōō, zēn|
 
 🚨 Siēmbʉ̄ɑ̄ 3 : sienga'wū🚨 ( adjectif possessif)
 
