@@ -139,9 +139,7 @@ N dɑlén mbí *pó* sê le.
 
 ## (adjectifs)
 
-Sienga'wū ntēn mbhi, ǒ, njam zēn, mɑ̄ndɑ́'sí wen kɑ̌ ghʉ̌ wū pó konsāh nǔ ná lɑ́. Fōhni: nshu ā / se' zī / yoh túse'.
-
-Mó' mvǎk nsienga'wū: ā, ō , ī / yōh, yī, yɑ̄ɑ̄ / bā, bō, bī / mā, mō , mī / mɑ̄ɑ̄, yēē, yɑ̄ɑ̄ / nā, nō , nī.
+Sienga'wū ntēn mbhi, ǒ, njam zēn, mɑ̄ndɑ́'sí wen kɑ̌ ghʉ̌ wū pó konsāh nǔ ná lɑ́.
 
 |nsienga'wū|wū|
 |---|---|
@@ -149,35 +147,17 @@ Mó' mvǎk nsienga'wū: ā, ō , ī / yōh, yī, yɑ̄ɑ̄ / bā, bō, bī / mā
 |bā, bō, bī|kɔ; lɔ; ngɔ; Pū'nkɔ|
 |mǎ, mǒ, mǐ|mbō; mbóknzī; nkhu; nse'; ntōk; nzī|
 |mbǎ, mbǒ, mbǐ|nsēn; pōō|
-|nā, nō , nī||
-|zǎ, zǒ, zǒ, yōh, yēē, yɑ̄ɑ̄|hāā; lāp; lɑ̄'; mbee (abscès); se'; vam; zɑ̄h; zēn; zīī;|
+|nā, nō , nī|pe'e;|
+|zǎ, zǒ, zǒ, yōh, yēē, yɑ̄ɑ̄|hāā; lāp; lɑ̄'; mbee (abscès); pēn; se'; te'; vam; zɑ̄h; zēn; zīī;|
 |yōh, yēē, yɑ̄ɑ̄||
-|ō, ē, ā||
-|a, o, i, yoh, yee, yɑɑ|kʉ̄kāb; mbǎ'ntām; mēn; mvʉ̄ɑ̄; nā; ndū; nkɑmbʉɑ'; nzhwīē; ŋwɑ'ni; pō; sēn; wen|
+|ō, ē, ā|mɑ̄; mbɑ̄';|
+|a, o, i, yoh (pɑh), yee (pen), yɑɑ (pō)|kʉ̄kāb; mbǎ'ntām; mēn; mvʉ̄ɑ̄; nā; ndū; nkɑmbʉɑ'; nzhwīē; ŋwɑ'ni; pō; sēn; wen; wú|
 |ba, bo, bi|nkɑ̄ɑ̄|
 |la, lo, li|maa; mbii; mvɑ̄h; nkoo|
 |ma, mo, mi||
 |na, na , ni, yoh, yee, yɑɑ|kūkūā; mbee (maison); nkoo;|
-|ya, yo, yi, yoh, yee, yɑ̄ɑ̄|mōō, zēn|
-
-🚨 Siēmbʉ̄ɑ̄ 3 : sienga'wū🚨 ( adjectif possessif)
-
-Ǎ ntēn mbhi, ǒ, njam zēn, mɑ̄ndɑ́'sí wen kɑ̌ ghʉ̌ wū pó konsāh nǔ ná lɑ́.
-
-Fōhni: nshu ā / se' zī / yoh túse'.
-
- Mó' mvǎk nsienga'wū 
-
-ā, ō , ī / yōh, yī, yɑ̄ɑ̄ / bā, bō, bī / mā, mō , mī / mɑ̄ɑ̄, yēē, yɑ̄ɑ̄ / nā, nō , nī
-Fōhni : 
-tū ā , 
-nsēn mbō  nkhu mɑ̄ɑ̄ , ǒ , nkhu yɑ̄ɑ̄ 
-pe'e nā 
-zēn zī 
-wú pen
-Mɑ̄ ē 
- mɑ̄vǒ 
- Mɑ̄ ā / se' zā / te' zō / pēn zō / lak yɑ̄ɑ̄
+|ya, yo, yi, yoh, yee, yɑ̄ɑ̄|lak; mōō; túse'; zēn|
+ 
 
 🚨Siēmbʉ̄ɑ̄ 4:🚨
  Cōptúzēn sienga'wū ( pronom possessif)
