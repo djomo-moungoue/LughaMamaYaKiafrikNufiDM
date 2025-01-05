@@ -145,19 +145,20 @@ Mó' mvǎk nsienga'wū: ā, ō , ī / yōh, yī, yɑ̄ɑ̄ / bā, bō, bī / mā
 
 |nsienga'wū|wū|
 |---|---|
-|ā, ō , ī|khu; nshu; tū|
+|ā, ō , ī|khu; nshu; shwī’; ten; tū|
 |bā, bō , bī|kɔ; lɔ; ngɔ; Pū'nkɔ|
 |mā, mō , mī|nkhu|
 |mbā, mbō , mbī|nsēn; pōō|
 |nā, nō , nī||
-|zā, zō , zī, yōh, yēē, yɑ̄ɑ̄|lɑ̄'; zēn|
+|zā, zō , zī, yōh, yēē, yɑ̄ɑ̄|lɑ̄'; mbee (abscès); zēn|
 |mɑ̄ɑ̄, yēē, yɑ̄ɑ̄||
 |yōh, yēē, yɑ̄ɑ̄||
 |ō, ē, ā||
-|a, o, i|mēn; ndū; nzhwīē|
+|a, o, i|mēn; mvʉ̄ɑ̄; ndū; nzhwīē; ŋwɑ'ni; sēn; wen|
 |ba, bo, bi|nkɑ̄ɑ̄|
 |la, lo, li|maa; mbii; mvɑ̄h; nkoo|
 |ma, mo, mi||
+|na, na , ni|mbee (maison)|
 
 🚨 Siēmbʉ̄ɑ̄ 3 : sienga'wū🚨 ( adjectif possessif)
 
