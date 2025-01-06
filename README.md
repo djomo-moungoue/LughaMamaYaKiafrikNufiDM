@@ -350,6 +350,24 @@ ___
 
 # (Annexe)
 
+## Nkwě' Ngu'fī  (Voeux de Nouvel An)
+
+Mbe'mbe' ngǔ'fī mbú ó lɑ́ !
+
+ɑ́ Mbōo hɑ̄ ō nten
+
+ɑ́ Mbōo hɑ̄ nten mbí pōō mbǒ 
+
+ɑ́ Mbōo hɑ̄ nten mbí mbɑ̄ ē mbɑ mɑ̄ ē
+
+ɑ́ Mbōo hɑ̄ nten mbí nkwee pʉʉ ǒ nkwé' lɑ́ 
+
+ɑ́ Mbōo hɑ̄ ō nzhínu pí kwe' lah ngʉ́ mbɑkɑ́lɑ́ ǒ kɑ' lɑ́ 
+
+
+
+
+
 ## Pú'ŋwɑ'nǐ pahsǐ Zhínu (Dictionnaire scientifique)
 
 ### Zhínǔghəə (Lnguistique)
