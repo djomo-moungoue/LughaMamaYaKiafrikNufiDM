@@ -358,12 +358,23 @@ Mbe'mbe' ngǔ'fī mbú ó lɑ́ !
 
 ɑ́ Mbōo hɑ̄ nten mbí pōō mbǒ 
 
-ɑ́ Mbōo hɑ̄ nten mbí mbɑ̄ ē mbɑ mɑ̄ ē
+ɑ́ Mbōo hɑ̄ nten mbí mbɑ̄' ē mbɑ mɑ̄ ē
 
 ɑ́ Mbōo hɑ̄ nten mbí nkwee pʉʉ ǒ nkwé' lɑ́ 
 
 ɑ́ Mbōo hɑ̄ ō nzhínu pí kwe' lah ngʉ́ mbɑkɑ́lɑ́ ǒ kɑ' lɑ́ 
 
+ɑ́ pɑmɑ̄gátnzhʉ bɑ̄ nshunshʉ' pí wo  
+
+Ghəə̄lɑ̄' yǒh mbɑ̄ fʉ' si mie
+
+Ntʉ́ɑ́ngwe' mǒh mbɑ̄ yoh pō nten
+
+Pɑh lǒsíé nɑ́ nǔ ghəə̄lɑ̄'
+
+Pɑh tōm ndʉ̄ɑ̄ nɑ́ ntʉ́ɑ́ngwe' mǒh 
+
+Mbhí nkwe'ni, mbhí nshunshʉ' (x2)
 
 
 
