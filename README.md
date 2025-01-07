@@ -157,6 +157,7 @@ Sienga'wū ntēn mbhi, ǒ, njam zēn, mɑ̄ndɑ́'sí wen kɑ̌ ghʉ̌ wū pó k
 |ma, mo, mi||
 |na, na , ni, yoh, yee, yɑɑ|kūkūā; mbee (maison); nkoo;|
 |ya, yo, yi, yoh, yee, yɑ̄ɑ̄|lak; mōō; túse'; zēn|
+|pɑ̄h, pen, pō|nshu;|
  
 
 Cōptúzēn sienga'wū ( pronom possessif) ndáh zʉ̌' zēn mɑndɑ́'sí nga'wū, yi túmfɑ̌' ntám njâ'nǔ mɑ́ ngʉwū, ǒ, nděnten ghə. 
