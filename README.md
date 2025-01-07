@@ -172,6 +172,10 @@ Lǎh yo lak nnʉ́ɑ́ yǎ síé lɑ́. Ya móó shʉɑ ngwɑ̄' yo . Ndhī í p
 
 ### **Ntiē'ghə** (conjugaison)
 
+**Verbe mbaf3: être** 
+
+**Verbe nguu2: avoir** 
+
 **Verbe nzēnshì: danser** 
 
 1) **Ntié'e le** (Présent progressif)
