@@ -151,7 +151,7 @@ Sienga'wū ntēn mbhi, ǒ, njam zēn, mɑ̄ndɑ́'sí wen kɑ̌ ghʉ̌ wū pó k
 |zǎ, zǒ, zǒ, yōh, yēē, yɑ̄ɑ̄|hāā; lāp; lɑ̄'; mbee (abscès); pēn; se'; te'; vam; zɑ̄h; zēn; zīī;|
 |yōh, yēē, yɑ̄ɑ̄||
 |ō, ē, ā|mɑ̄; mbɑ̄';|
-|a, o, i, yoh (pɑh), yee (pen), yɑɑ (pō)|kʉ̄kāb; mbǎ'ntām; mēn; mvʉ̄ɑ̄; nā; ndū; nkɑmbʉɑ'; nzhwīē; ŋwɑ'ni; pō; sēn; wen; wú|
+|a, o, i, yoh (pɑh), yee (pen), yɑɑ (pō)|kʉ̄kāb; mbǎ'ntām; mēn; mvʉ̄ɑ̄; nā; ndū; nkɑmbʉɑ'; nini; nzhwīē; ŋwɑ'ni; pō; sēn; wen; wú|
 |ba, bo, bi|nkɑ̄ɑ̄|
 |la, lo, li|maa; mbii; mvɑ̄h; nkoo|
 |ma, mo, mi||
