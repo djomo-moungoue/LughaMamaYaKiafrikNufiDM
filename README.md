@@ -156,7 +156,7 @@ Sienga'wū ntēn mbhi, ǒ, njam zēn, mɑ̄ndɑ́'sí wen kɑ̌ ghʉ̌ wū pó k
 |la, lo, li|maa; mbii; mvɑ̄h; nkoo|
 |ma, mo, mi||
 |na, na , ni, yoh, yee, yɑɑ|kūkūā; mbee (maison); nkoo;|
-|ya, yo, yi, yoh, yee, yɑ̄ɑ̄|lak; mōō; túse'; zēn|
+|ya, yo, yi, yoh, yee, yɑɑ|lak; mōō; túse'; zēn|
 |pɑ̄h, pen, pō|nshu;|
  
 
