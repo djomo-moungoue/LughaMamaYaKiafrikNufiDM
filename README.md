@@ -615,6 +615,100 @@ Mbī'tūmɑ́ ndɑ̌' wo tɑ́ pɑ̌h zhí yǒ, lɑ́' Túnkə ǒ síémbɑ̄ kw
 
 Mbī'tūmɑ́ ndɑ̌' wo tɑ́ pɑ̌h zhí yǒh, lɑ́' Túnkə ǒ síémbɑ̄ túfie yǒh ndíndē.
 
+### Yɔ̌nshǐ Kami sa'h ntala
+
+Mfâhtie mɑ flaŋsī: Mɑ̄fʉ̌ Sɑ̌'sām Mɑ̄nǐ Nsiantóó, Fʉfɑ́htū
+
+Mes problémes/soucis sont énormes.
+
+Que veux-tu que je fasse?
+
+Viens me trouver avec les tiens afin que  mon cœur soit réconforté.
+
+Oh mon meilleur ami !
+
+Il ya un apaté s'il te plaît viens écouter.
+
+Il faut que tu saches très bien qu'à part toi, le ciel me tombera dessus et et à qui m'abandonnerai-je ???
+
+Je ne dors plus depuis le jour que tu m'avais accepté.
+
+Sache très bien que je t'attends la nuit comme le jour.
+
+Je ne dors plus depuis le jour que tu m'avais accepté Mamīleee.
+
+Sache très bien que je t'attends la nuit comme le jour.
+
+Tu me laisses à qui?
+
+Comment dors-tu depuis que tu ne m'a plus vu ?
+
+Pourquoi n'as-tu pas rédigé une lettre pour me dire comment tu vas?
+
+Oh que Dieu vous bénisse !
+
+Sinon que dirai-je ?
+
+Dire quoi sur ce que je n'ai aucune idée de comment ça a commencé ?
+
+Ô!
+
+Je ne dors plus depuis le jour que tu m'avais accepté.
+
+Sache très bien que je t'attends le jour comme la nuit.
+
+Oh tu me laisses à qui ?
+
+Je ne dors plus depuis que tu m'avais accepté.
+
+Sache très bien que je t'attends, le jour comme la nuit. 
+
+Je ne dors plus depuis le jour que tu m'avais accepté.
+
+Sache très bien que je t'attends, la nuit comme le jour.
+
+T'attendre,
+
+Je ne dors plus depuis le jour que tu m'avais accepté papa ééé
+
+Sache très bien que je t'attends la nuit comme le jour.
+
+Je ne dors plus depuis le jour que tu m'avais accepté.
+
+Sache très bien que je t'attends la nuit comme le jour.
+
+Oh tu me laisses à qui ?
+
+Je ne dors plus depuis le jour que tu m'avais accepté.
+
+Sache très bien que je t'attends la nuit comme le jour. 
+
+Ô mamiyo!
+
+Tu me regardais, regardais et disais que je fasse comment eeee?
+
+Sache que, sache très bien que je t'attends la nuit comme le jour.
+
+Tu me laisses à qui ? 
+
+Ooooooo!
+
+Yeyeyeyeye a!
+
+Mamiyo!
+
+Oooooooo o!
+
+Sache très bien que je t'attends la nuit comme le jour
+
+Ô mamiyo !
+
+Óō!
+
+Mamiyo !
+
+Ô papa ooo!
+
 ---
 
 ## Ghəə̄ Ghəəmɑtū 
