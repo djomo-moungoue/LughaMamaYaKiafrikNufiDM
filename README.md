@@ -534,6 +534,29 @@ NB=Yū' pəpē'(YP)
 
 ### Zhínǔsáhwū (Mathématiques)
 
+Lěn sáhwū : les types de calcul
+- shwǐ'wū 
+- téhwū
+- ncámncām
+- ghɑ̀ɑ̄wū = division
+- pǎkō = diviseur , wúghɑɑ = dividende
+- yāā hɑ̄ ǒ yāā tōm pour donner le résultat d'une addition, multiplication ou division
+- yāā vʉ̄' pour donner le résultat d'une soustraction
+
+Ntīēntíé nka' pí ntīēntíé nini
+- nka' nkɑndak = droite horizontale,
+- nka' tìtī = droite verticale,
+- ták nka' = droite oblique,
+- ŋō'ŋo' nka', pʉ̄ɑ̄'sí nka',
+- nka' tō'nkɑndak = angle droit,
+- tàā tó',
+- pə́ə́ tó',
+- nco'ntāā = triangle,
+- kǒpndʉ̄ɑ̄ = rectangle,
+- túpɑ́ndə = ,
+- Kāā = cercle,
+- nsáhnsāh = losange
+
 *Sáhwū* 
 
  *🚨Yū'ndó'🚨* 
