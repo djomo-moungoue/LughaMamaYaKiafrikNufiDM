@@ -56,6 +56,8 @@
 |21| sh /shɑ/| shi (avoir gémi, gémi!, avoir effleuré, effleure!) |
 |22| zh /zhɑ/| nzhi (le chemin, la voie, la route, la solution, la voix, le son, le volume sonore, l'interdiction) |
 
+|N°|nɑ́hŋwɑ'nǐ nzhitē' (voyelle)|pɑ́' ntám ... lɑ́ (comme dans)|
+|---|---|---|
 |01| à /a1/| vàm, càk|
 |02| á /a2/| mfát |
 |03| ā /a3/| tāā, lām, ncāt|
@@ -67,6 +69,8 @@
 |04| ǎ' /a7'/| mbǎ'ntām , ntǎ'nìì|
 |05| â' /a5'/| mbâ' |
 
+|N°|nɑ́hŋwɑ'nǐ nzhitē' (voyelle)|pɑ́' ntám ... lɑ́ (comme dans)|
+|---|---|---|
 |01| ɑ̀ /af1/|pʉ̀ɑ̀, kwɑ̀, mbɑ̀, lʉ̀ɑ̀' |
 |02| ɑ́ /af2/| pʉ́ɑ́ |
 |03| ɑ̄ /af3/|mɑ̄, pʉ̄ɑ̄, shʉ̄ɑ̄|
@@ -78,6 +82,8 @@
 |04| ɑ̌' /af7'/|  |
 |05| ɑ̂' /af5'/| nɑ̂' mbìyā' |
 
+|N°|nɑ́hŋwɑ'nǐ nzhitē' (voyelle)|pɑ́' ntám ... lɑ́ (comme dans)|
+|---|---|---|
 |01| è /e1/|mbèè |
 |02| é /e2/|  |
 |03| ē /e3/| pēē|
@@ -89,6 +95,8 @@
 |04| ě' /e7'/|  |
 |05| ê' /e5'/|  |
 
+|N°|nɑ́hŋwɑ'nǐ nzhitē' (voyelle)|pɑ́' ntám ... lɑ́ (comme dans)|
+|---|---|---|
 |01| ə̀ /eu1/| hə̀ə̄ |
 |02| ə́ /eu2/| sə̀ə̀mbʉ́ɑ́ |
 |03| ə̄ /eu3/| nēhē |
