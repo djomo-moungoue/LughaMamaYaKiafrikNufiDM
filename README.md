@@ -33,7 +33,7 @@
 
 |N°|nɑ́hŋwɑ'nǐ vam (consonne)|pɑ́' ntám ... lɑ́ (comme dans)|
 |---|---|---|
-|01| b /bɑ/| bɑ (aussi)|
+|01| b /bɑ/| mbɑ (aussi)|
 |02| c /cɑ/| cɑ'si (avoir salué, salut!, la salutation) |
 |03| d /dɑ/| ndɑh (le climat, l'heure, le temps)|
 |04| f /fɑ/| mfɑ' (le travail) |
@@ -55,6 +55,50 @@
 |20| gh /ghɑ/| ghɑ' (difficile, important, grave) |
 |21| sh /shɑ/| shi (avoir gémi, gémi!, avoir effleuré, effleure!) |
 |22| zh /zhɑ/| nzhi (le chemin, la voie, la route, la solution, la voix, le son, le volume sonore, l'interdiction) |
+
+|01| à /a1/| a á ā ǎ â|
+|02| á /a2/|  |
+|03| ā /a3/| |
+|04| ǎ /a7/|  |
+|05| â /a5/|  |
+|01| à' /a1'/| |
+|02| á' /a2'/|  |
+|03| ā' /a3'/| |
+|04| ǎ' /a7'/|  |
+|05| â' /a5'/|  |
+
+|01| ɑ̀ /af1/| |
+|02| ɑ́ /af2/|  |
+|03| ɑ̄ /af3/| |
+|04| ɑ̌ /af7/|  |
+|05| ɑ̂ /af5/|  |
+|01| ɑ̀' /af1'/| |
+|02| ɑ́' /af2'/|  |
+|03| ɑ̄' /af3'/| |
+|04| ɑ̌' /af7'/|  |
+|05| ɑ̂' /af5'/|  |
+
+|01| è /e1/| |
+|02| é /e2/|  |
+|03| ē /e3/| |
+|04| ě /e7/|  |
+|05| ê /e5/|  |
+|01| è' /e1'/| |
+|02| é' /e2'/|  |
+|03| ē' /e3'/| |
+|04| ě' /e7'/|  |
+|05| ê' /e5'/|  |
+
+|01| ə̀ /eu1/|  |
+|02| ə́ /eu2/|  |
+|03| ə̄ /eu3/| |
+|04| ə̌ /eu7/|  |
+|05| ə̂ /eu5/|  |
+|01| ə̀' /eu1'/| |
+|02| ə́' /eu2'/|  |
+|03| ə̄' /eu3'/| |
+|04| ə̌' /eu7'/|  |
+|05| ə̂' /eu5'/|  |
 
 ### (Syllabes)
 
