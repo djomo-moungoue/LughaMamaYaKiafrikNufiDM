@@ -58,16 +58,16 @@
 
 |N°|nɑ́hŋwɑ'nǐ nzhǐtē' (voyelle)|pɑ́' ntám ... lɑ́ (comme dans)|
 |---|---|---|
-|01| à /a1/| vàm, càk|
-|02| á /a2/| mfát |
-|03| ā /a3/| tāā, lām, ncāt|
-|04| ǎ /a7/| ǎ sɑ̀' |
-|05| â /a5/| ngâpnshì |
-|01| à' /a1'/| cà'sì, là' |
-|02| á' /a2'/| ncá'sí, sá'ndʉ̄ɑ̄ |
-|03| ā' /a3'/|njā', kwā'|
-|04| ǎ' /a7'/| mbǎ'ntām , ntǎ'nìì|
-|05| â' /a5'/| mbâ' |
+|01| à /a1/| vàm zǎ mɑ̀nnjā'|
+|02| á /a2/| ǎ fát ngòfāt wǎ' |
+|03| ā /a3/| tāā pí pʉ́ɑ́ mɑ́ tî|
+|04| ǎ /a7/| ǎ sɑ̌' mbèè nà njīī ā|
+|05| â /a5/| ngâpnshǐ nkwé' nāhnshì |
+|01| à' /a1'/| cà'sǐ ngwēēwèn |
+|02| á' /a2'/| Pó ndāh sá'ndʉ̄ɑ̄ ncwāh sīēndʉ̄ɑ̄ |
+|03| ā' /a3'/|ǒ nzhī làh nkō' kwā' á?|
+|04| ǎ' /a7'/| ngɑ̌ nkwé' ā mbǎ'ntām à|
+|05| â' /a5'/| mbâ' bê  |
 
 |N°|nɑ́hŋwɑ'nǐ nzhǐtē' (voyelle)|pɑ́' ntám ... lɑ́ (comme dans)|
 |---|---|---|
